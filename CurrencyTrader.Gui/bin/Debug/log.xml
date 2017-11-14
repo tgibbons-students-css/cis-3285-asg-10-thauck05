@@ -96,3 +96,9 @@ WARN: Trade amount is above upper bound: '775200'
 WARN: Trade amount is above upper bound: '476800'
 INFO: Connecting to Database
 INFO: 100 trades processed
+INFO: Starting synch trade storage
+INFO: Connecting to Database
+INFO: 100 trades processed
+INFO: Starting synch trade storage
+INFO: Connecting to Database
+INFO: 100 trades processed
